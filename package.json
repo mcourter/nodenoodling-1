@@ -1,0 +1,19 @@
+{
+  "name": "nodenoodling-1",
+  "version": "1.0.0",
+  "description": "Noodling with npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcourter/nodenoodling-1.git"
+  },
+  "author": "mcourter <mcourter@epbfi.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcourter/nodenoodling-1/issues"
+  },
+  "homepage": "https://github.com/mcourter/nodenoodling-1#readme"
+}
